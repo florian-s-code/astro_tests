@@ -1,0 +1,7 @@
+{
+  "name": "astro_tests",
+  "workspaces": [
+    "md_compile"
+  ]
+}
+
